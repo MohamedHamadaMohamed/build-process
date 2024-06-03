@@ -20,6 +20,6 @@ gpio_init_pin(1,5, 1);
 
 gpio_init_pin(2,7, 0);
 
-
+gpio_init_pin(3,4, 0);
 
 }

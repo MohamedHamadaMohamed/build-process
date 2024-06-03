@@ -26,6 +26,6 @@ gpio_init_pin(PORTB,PIN5, OUTPUT);
 
 gpio_init_pin(PORTC,PIN7, INPUT);
 
-
+gpio_init_pin(PORTD,PIN4, INPUT);
 
 }
